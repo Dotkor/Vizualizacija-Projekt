@@ -15,18 +15,17 @@ var colors = {
   "Playstation 4": "#de783b",
   "macOS": "#6ab975",
   "Playstation3": "#a173d1",
-  "Xbox one": "#000538",
-  "iOS": "#343837",
+  "iOS": "#BD7474",
   "Android": "#ABA600",
-  "Survival": "#651148",
-  "Action": "#FF00A1",
+  "Survival": "#7576C9",
+  "Action": "#41B4B8",
   "Action/Adventure": "#37AB00",
   "Multiplayer": "#1000FF",
   "Singleplayer": "#380D0D",
   "Tactical shooter": "#AB0002",
   "FPS": "#585F65",
   "Sports": "#FF8D00",
-  "Battle arena": "#381B00"
+  "Battle arena": "#00cdcd"
   
 };
 
