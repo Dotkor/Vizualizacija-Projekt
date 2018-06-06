@@ -20,11 +20,11 @@ var colors = {
   "Survival": "#7576C9",
   "Action": "#41B4B8",
   "Action/Adventure": "#37AB00",
-  "Multiplayer": "#1000FF",
-  "Singleplayer": "#380D0D",
-  "Tactical shooter": "#AB0002",
+  "Multiplayer": "#cd6090",
+  "Singleplayer": "#cdba96",
+  "Tactical shooter": "#cd9b1d",
   "FPS": "#585F65",
-  "Sports": "#FF8D00",
+  "Sports": "#cdc8b1",
   "Battle arena": "#00cdcd"
   
 };
